@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Loc 👋
+
+🎓 I'm currently studying Computer Engineering at New York University.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhlok&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**tranhlok/tranhlok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
