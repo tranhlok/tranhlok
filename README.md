@@ -2,9 +2,9 @@
 
 🎓 I'm currently studying Computer Engineering at New York University.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhlok&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhlok&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
